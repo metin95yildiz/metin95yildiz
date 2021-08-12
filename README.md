@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @metin95yildiz
 - 👀 I’m interested in Javascript, CSS, HTML, ReactJS, Redux
-- 🌱 I’m currently learning PHP, Python.
+- 🌱 I’m currently learning PHP, Python, Vue.js, React Native.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
