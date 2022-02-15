@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @metin95yildiz
-- 👀 I’m interested in Javascript, CSS, HTML, ReactJS, , Vue.js, Redux, Python, Java.
+- 👀 I’m interested in Javascript, CSS(SASS), HTML, ReactJS, Vue.js, Redux, Python, Java, MySQL.
 - 🌱 I’m currently learning PHP, Angular, React Native.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
